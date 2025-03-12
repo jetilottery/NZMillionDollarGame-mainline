@@ -1,0 +1,48 @@
+{"frames": {
+
+"collect-bonus-text":
+{
+	"frame": {"x":175,"y":577,"w":586,"h":175},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":586,"h":175},
+	"sourceSize": {"w":586,"h":175},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"landscape_gameLogo":
+{
+	"frame": {"x":1,"y":1,"w":574,"h":348},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":1,"w":574,"h":348},
+	"sourceSize": {"w":646,"h":349},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"tutorial_instant_win":
+{
+	"frame": {"x":175,"y":1165,"w":174,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":95},
+	"sourceSize": {"w":174,"h":95},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheel-bonus-text":
+{
+	"frame": {"x":1,"y":577,"w":625,"h":172},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":625,"h":172},
+	"sourceSize": {"w":625,"h":172},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "i18n.png",
+	"format": "RGBA8888",
+	"size": {"w":351,"h":1261},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:47a5d47c77073415e12490d3dae8c834:d439660052e68891de39dc2b8720ceea:75f4e1c5501bdd47cd0852bfeaabcd82$"
+}
+}

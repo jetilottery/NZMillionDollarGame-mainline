@@ -1,0 +1,9 @@
+{
+  "game": {
+    "name": "MillionDollarRiches",
+    "id": "300-2200-1",
+    "framework": "jet",
+    "version": "0.0.1",
+    "studio": "interactive"
+  }
+}
